@@ -13,7 +13,7 @@ public class GitTestMain {
 
 		System.out.println("Master final commit");
 		
-		System.out.println("hello worl!!!d");
+		System.out.println("home work");
 	}
 
 }
