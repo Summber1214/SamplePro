@@ -10,8 +10,10 @@ public class GitTestMain {
 		System.out.println("hotfix branch2");
 
 		System.out.println("Master branch2");
+
 		System.out.println("Master final commit");
 		
+
 	}
 
 }
